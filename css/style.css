@@ -36,7 +36,7 @@ section{
 }
 span{
 	opacity: 0.7;
-	align-self: center;
+	vertical-align: center;
 }
 .price{
 	font-size: 200%;
